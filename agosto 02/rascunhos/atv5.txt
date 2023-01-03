@@ -1,0 +1,30 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+int main()
+{
+    char string1[20], string2[20], letra;
+    int x, cont1 = 0, cont2 = 0;
+    
+    printf("Digite a primeira palavra: ");
+    scanf("%c", &string1);
+    
+    // contando a ocorrencia de "letra" nas strings
+    
+    for(x = 0; x < strlen(string1); x++) {
+        if(string1[x] == letra) {
+            cont1++;
+        }
+    }
+    
+    for(x = 0; x < strlen(string2); x++) {
+        if(string2[x] == letra) {
+            cont2++;
+        }
+    }
+    
+    printf("A letra \"%c\" aparece %d vez(es) na string 1, ", letra, cont1);
+    printf("e %d vez(es) na string2", cont2);
+    printf("\n\n\n");
+}

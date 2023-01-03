@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1667768732 source:d:\ifsp\2 sem\ed\lista 2\ex2\ex2\retangulo.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"retangulo.h"
+
+1667768732 d:\ifsp\2 sem\ed\lista 2\ex2\ex2\retangulo.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1667768956 source:d:\ifsp\2 sem\ed\lista 2\ex2\ex2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"retangulo.h"
+

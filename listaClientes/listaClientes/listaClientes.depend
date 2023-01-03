@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1670179248 source:d:\ifsp\2 sem\ed\listaclientes\listaclientes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listaClientes.h"
+	"funcoesAuxiliares.h"
+
+1670180812 d:\ifsp\2 sem\ed\listaclientes\listaclientes\listaclientes.h
+
+1669571918 source:d:\ifsp\2 sem\ed\listaclientes\listaclientes\listaclientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"listaClientes.h"
+
+1670178878 source:d:\ifsp\2 sem\ed\listaclientes\listaclientes\funcoesauxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"listaClientes.h"
+	"funcoesAuxiliares.h"
+
+1670178900 d:\ifsp\2 sem\ed\listaclientes\listaclientes\funcoesauxiliares.h
+

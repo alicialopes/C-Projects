@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1666745906 source:i:\ifsp\2 sem\ed\outubro 25\listasequencial\listasequencial.c
+	<stdio.h>
+	<stdlib.h>
+	"listaSequencial.h"
+
+1666745834 i:\ifsp\2 sem\ed\outubro 25\listasequencial\listasequencial.h
+
+1666740834 source:i:\ifsp\2 sem\ed\outubro 25\listasequencial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listaSequencial.h"
+
+1667426940 source:d:\ifsp\2 sem\ed\outubro 25\listasequencial\listasequencial.c
+	<stdio.h>
+	<stdlib.h>
+	"listaSequencial.h"
+
+1667426926 d:\ifsp\2 sem\ed\outubro 25\listasequencial\listasequencial.h
+
+1666745952 source:d:\ifsp\2 sem\ed\outubro 25\listasequencial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listaSequencial.h"
+

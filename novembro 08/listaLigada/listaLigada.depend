@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1667954986 source:i:\ifsp\2 sem\ed\novembro 08\listaligada\listaligada.c
+	<stdio.h>
+	<stdlib.h>
+	"listaLigada.h"
+
+1667954684 i:\ifsp\2 sem\ed\novembro 08\listaligada\listaligada.h
+
+1667953524 source:i:\ifsp\2 sem\ed\novembro 08\listaligada\main.c
+	<stdio.h>
+	<stdlib.h>
+	"listaLigada.h"
+

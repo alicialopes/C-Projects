@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1664741190 source:d:\ifsp\2 sem\ed\setembro 27\atividade 3\atv3.c
+
+1664742042 source:d:\ifsp\2 sem\ed\setembro 27\atividade 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"atv3.h"
+
+1664742472 d:\ifsp\2 sem\ed\setembro 27\atividade 3\atv3.h
+

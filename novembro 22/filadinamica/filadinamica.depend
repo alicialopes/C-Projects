@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1669159702 source:i:\ifsp\2 sem\ed\novembro 22\filadinamica\filad.c
+	<stdio.h>
+	<stdlib.h>
+	"filaD.h"
+
+1669159702 i:\ifsp\2 sem\ed\novembro 22\filadinamica\filad.h
+
+1669159702 source:i:\ifsp\2 sem\ed\novembro 22\filadinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"filaD.h"
+

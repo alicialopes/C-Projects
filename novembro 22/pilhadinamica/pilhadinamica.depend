@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1669161246 source:i:\ifsp\2 sem\ed\novembro 22\pilhadinamica\pilhad.c
+	<stdio.h>
+	<stdlib.h>
+	"pilhaD.h"
+
+1669161246 
+
+1669161246 i:\ifsp\2 sem\ed\novembro 22\pilhadinamica\pilhad.h
+
+1669243390 source:/media/aluno/AL_CIA/IFSP/2 SEM/ED/novembro 22/pilhadinamica/pilhaD.c
+	<stdio.h>
+	<stdlib.h>
+	"pilhaD.h"
+
+1669243390 /media/aluno/AL_CIA/IFSP/2 SEM/ED/novembro 22/pilhadinamica/pilhaD.h
+

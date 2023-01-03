@@ -1,0 +1,235 @@
+# depslib dependency file v1.0
+1670179248 source:d:\ifsp\2 sem\ed\listaclientes\listaclientes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listaClientes.h"
+	"funcoesAuxiliares.h"
+
+1670180812 d:\ifsp\2 sem\ed\listaclientes\listaclientes\listaclientes.h
+
+1669571918 source:d:\ifsp\2 sem\ed\listaclientes\listaclientes\listaclientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"listaClientes.h"
+
+1670178878 source:d:\ifsp\2 sem\ed\listaclientes\listaclientes\funcoesauxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"listaClientes.h"
+	"funcoesAuxiliares.h"
+
+1670178900 d:\ifsp\2 sem\ed\listaclientes\listaclientes\funcoesauxiliares.h
+
+1670178878 source:c:\users\lucas\desktop\listaclientes\funcoesauxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"listaClientes.h"
+	"funcoesAuxiliares.h"
+
+1670635306 c:\users\lucas\desktop\listaclientes\listaclientes.h
+
+1670178900 c:\users\lucas\desktop\listaclientes\funcoesauxiliares.h
+
+1670637932 source:c:\users\lucas\desktop\listaclientes\listaclientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"listaClientes.h"
+	"funcoesAuxiliares.h"
+
+1670634508 source:c:\users\lucas\desktop\listaclientes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listaClientes.h"
+	"funcoesAuxiliares.h"
+
+1670178878 source:i:\ifsp\2 sem\listaclientes\funcoesauxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"listaClientes.h"
+	"funcoesAuxiliares.h"
+
+1670181162 i:\ifsp\2 sem\listaclientes\listaclientes.h
+
+1670178900 i:\ifsp\2 sem\listaclientes\funcoesauxiliares.h
+
+1670455428 source:i:\ifsp\2 sem\listaclientes\listaclientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"listaClientes.h"
+	"funcoesAuxiliares.h"
+
+1670456356 source:i:\ifsp\2 sem\listaclientes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listaClientes.h"
+	"funcoesAuxiliares.h"
+
+1670178878 source:c:\users\lucas\downloads\listaclientes(2)\listaclientes\funcoesauxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"listaClientes.h"
+	"funcoesAuxiliares.h"
+
+1670547246 c:\users\lucas\downloads\listaclientes(2)\listaclientes\listaclientes.h
+
+1670178900 c:\users\lucas\downloads\listaclientes(2)\listaclientes\funcoesauxiliares.h
+
+1670547895 source:c:\users\lucas\downloads\listaclientes(2)\listaclientes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listaClientes.h"
+	"funcoesAuxiliares.h"
+
+1670548161 source:c:\users\lucas\downloads\listaclientes(2)\listaclientes\listaclientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"listaClientes.h"
+	"funcoesAuxiliares.h"
+
+1670178878 source:e:\listaclientes\funcoesauxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"listaClientes.h"
+	"funcoesAuxiliares.h"
+
+1670547248 e:\listaclientes\listaclientes.h
+
+1670178900 e:\listaclientes\funcoesauxiliares.h
+
+1670547896 source:e:\listaclientes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listaClientes.h"
+	"funcoesAuxiliares.h"
+
+1670178878 source:i:\listaclientes\funcoesauxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"listaClientes.h"
+	"funcoesAuxiliares.h"
+
+1670626178 i:\listaclientes\listaclientes.h
+
+1670178900 i:\listaclientes\funcoesauxiliares.h
+
+1670627414 source:i:\listaclientes\listaclientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"listaClientes.h"
+	"funcoesAuxiliares.h"
+
+1670627554 source:i:\listaclientes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listaClientes.h"
+	"funcoesAuxiliares.h"
+
+1670178878 source:d:\listaclientes\funcoesauxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"listaClientes.h"
+	"funcoesAuxiliares.h"
+
+1670626178 d:\listaclientes\listaclientes.h
+
+1670178900 d:\listaclientes\funcoesauxiliares.h
+
+1670627414 source:d:\listaclientes\listaclientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"listaClientes.h"
+	"funcoesAuxiliares.h"
+
+1670627554 source:d:\listaclientes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listaClientes.h"
+	"funcoesAuxiliares.h"
+
+1670700935 source:c:\users\lucas\downloads\listaclientes\funcoesauxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"listaClientes.h"
+	"funcoesAuxiliares.h"
+
+1670700935 c:\users\lucas\downloads\listaclientes\listaclientes.h
+
+1670700935 c:\users\lucas\downloads\listaclientes\funcoesauxiliares.h
+
+1670793965 source:c:\users\lucas\downloads\listaclientes\listaclientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"listaClientes.h"
+	"funcoesAuxiliares.h"
+
+1670797629 source:c:\users\lucas\downloads\listaclientes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listaClientes.h"
+	"funcoesAuxiliares.h"
+
+1670802753 source:c:\users\alici\downloads\alicia&knupp\listaclientes\funcoesauxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"listaClientes.h"
+	"funcoesAuxiliares.h"
+
+1670802753 c:\users\alici\downloads\alicia&knupp\listaclientes\listaclientes.h
+
+1670802753 c:\users\alici\downloads\alicia&knupp\listaclientes\funcoesauxiliares.h
+
+1670802753 source:c:\users\alici\downloads\alicia&knupp\listaclientes\listaclientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"listaClientes.h"
+	"funcoesAuxiliares.h"
+
+1670802753 source:c:\users\alici\downloads\alicia&knupp\listaclientes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listaClientes.h"
+	"funcoesAuxiliares.h"
+

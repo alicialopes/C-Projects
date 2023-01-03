@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1664323994 source:i:\ifsp\2 sem\ed\setembro 27\atividade2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ponto.h"
+
+1664324336 i:\ifsp\2 sem\ed\setembro 27\atividade2\ponto.h
+
